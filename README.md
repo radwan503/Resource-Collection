@@ -54,11 +54,22 @@
 - Alternight
   - Visual code dark mode and plugin combine.
     - Website: https://marketplace.visualstudio.com/items?itemName=spaceinvadev.alternight
-	
-	
-	
-	
+- Color-wheel 
+  - Color wheel (or image in Extract Theme tab) can be used to generate color palette, which can be saved into Creative Cloud, after signing in. 
+    - https://color.adobe.com/create/    
 
+### Design
+
+- How to choose the right colors for your web design
+  - Website: https://99designs.com/blog/web-digital/web-design-colors/
+- The fundamentals of understanding color theory
+  - Website: https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/
+- How to choose fonts for your web design
+  - Website: https://99designs.com/blog/web-digital/web-design-colors/
+- Branding colors: everything you need to choose your brand’s color palette
+  - Website: https://99designs.com/blog/tips/branding-colors/  
+	
+	
 Resource Collected from: - linkedin - twitter - google	from Different person post.So thanks everyone.❤️
 	
 	
