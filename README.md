@@ -1,4 +1,4 @@
-# Web Resource Collection
+# Web (Study) Resource Collection
 
 ### JavaScript
 
