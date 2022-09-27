@@ -32,7 +32,16 @@
 - Pull Request
   - Code Review as a Service.Get on-demand code reviews from expert engineers and developers.
     - Website: https://www.pullrequest.com/  
-
+- FETCH API 
+  - (JAVASCRIPT)- HOW TO MAKE GET AND POST REQUESTS
+    - https://www.topcoder.com/thrive/articles/fetch-api-javascript-how-to-make-get-and-post-requests 
+- Fetch-api
+  - JavaScript Fetch API Tutorial with JS Fetch Post and Header Examples
+    - https://www.freecodecamp.org/news/javascript-fetch-api-tutorial-with-js-fetch-post-and-header-examples/	
+- Fetch API
+  - How To Use the JavaScript Fetch API to Get Data
+    - https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data 
+    
 ### UI
 
 - CSS Layout Generator
@@ -58,7 +67,7 @@
   - Color wheel (or image in Extract Theme tab) can be used to generate color palette, which can be saved into Creative Cloud, after signing in. 
     - https://color.adobe.com/create/    
 
-### Design
+### Article(Design & Other)
 
 - How to choose the right colors for your web design
   - Website: https://99designs.com/blog/web-digital/web-design-colors/
@@ -67,8 +76,8 @@
 - How to choose fonts for your web design
   - Website: https://99designs.com/blog/web-digital/web-design-colors/
 - Branding colors: everything you need to choose your brand’s color palette
-  - Website: https://99designs.com/blog/tips/branding-colors/  
-	
+  - Website: https://99designs.com/blog/tips/branding-colors/ 
+    
 	
 Resource Collected from: - linkedin - twitter - google	from Different person post.So thanks everyone.❤️
 	
