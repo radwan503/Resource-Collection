@@ -77,8 +77,22 @@
   - Website: https://99designs.com/blog/web-digital/web-design-colors/
 - Branding colors: everything you need to choose your brand’s color palette
   - Website: https://99designs.com/blog/tips/branding-colors/ 
-    
-	
+ 
+### Style Guide
+- Airbnb JavaScript Style Guide
+  - Airbnb React/JSX Style Guide
+    - https://airbnb.io/javascript/react/
+- Airbnb JavaScript Style Guide
+  - Airbnb CSS-in-JavaScript Style Guide
+    - https://airbnb.io/javascript/css-in-javascript/ 
+-Airbnb CSS / Sass Styleguide
+ - https://github.com/airbnb/css
+- Our JavaScript Style Guide
+  - https://medium.com/airbnb-engineering/our-javascript-style-guide-43b026f5b463 
+
+
+
+
 Resource Collected from: - linkedin - twitter - google	from Different person post.So thanks everyone.❤️
 	
 	
