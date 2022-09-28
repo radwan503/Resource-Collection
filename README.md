@@ -85,8 +85,8 @@
 - Airbnb JavaScript Style Guide
   - Airbnb CSS-in-JavaScript Style Guide
     - https://airbnb.io/javascript/css-in-javascript/ 
--Airbnb CSS / Sass Styleguide
- - https://github.com/airbnb/css
+- Airbnb CSS / Sass Styleguide
+  - https://github.com/airbnb/css
 - Our JavaScript Style Guide
   - https://medium.com/airbnb-engineering/our-javascript-style-guide-43b026f5b463 
 
