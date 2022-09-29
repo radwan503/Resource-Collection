@@ -76,7 +76,11 @@
 - How to choose fonts for your web design
   - Website: https://99designs.com/blog/web-digital/web-design-colors/
 - Branding colors: everything you need to choose your brand’s color palette
-  - Website: https://99designs.com/blog/tips/branding-colors/ 
+  - Website: https://99designs.com/blog/tips/branding-colors/
+
+### Quality Assurance Engineer
+- Checklist - is a list of tests
+  - https://strongqa.com/qa-portal/testing-docs-templates/checklist
  
 ### Style Guide
 - Airbnb JavaScript Style Guide
