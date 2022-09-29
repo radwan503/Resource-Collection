@@ -41,6 +41,9 @@
 - Fetch API
   - How To Use the JavaScript Fetch API to Get Data
     - https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data 
+- Javscript 
+  - Project based Learning  
+    - https://www.theodinproject.com/
     
 ### UI
 
