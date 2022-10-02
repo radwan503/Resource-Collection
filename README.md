@@ -97,8 +97,19 @@
 - Our JavaScript Style Guide
   - https://medium.com/airbnb-engineering/our-javascript-style-guide-43b026f5b463 
 
-
-
+### Free API 
+- Fake Store API
+  - Fake store rest API for your e-commerce or shopping website prototype
+    - https://fakestoreapi.com/docs
+- DummyJSON
+  - Get dummy/fake JSON data to use as placeholder in development or in prototype testing.
+    - https://dummyjson.com/ 
+- Fake E-commerce API
+  - Easily test your front-end store prototype for free!
+    - https://www.fakeshop-api.com/ 
+- eCommerce Rest API
+  - Free complete store rest api for testing your application and prototypes
+    - https://storerestapi.com/
 
 Resource Collected from: - linkedin - twitter - google	from Different person post.So thanks everyone.❤️
 	
