@@ -44,6 +44,9 @@
 - Javscript 
   - Project based Learning  
     - https://www.theodinproject.com/
+- FETCH API (JAVASCRIPT)
+  - HOW TO MAKE GET AND POST REQUESTS    
+    - https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/    
     
 ### UI
 
@@ -80,6 +83,8 @@
   - Website: https://99designs.com/blog/web-digital/web-design-colors/
 - Branding colors: everything you need to choose your brand’s color palette
   - Website: https://99designs.com/blog/tips/branding-colors/
+- Sign-in form best practices  
+  - https://web.dev/sign-in-form-best-practices/
 
 ### Quality Assurance Engineer
 - Checklist - is a list of tests
@@ -114,6 +119,6 @@
   - Free complete store rest api for testing your application and prototypes
     - https://storerestapi.com/
 
-Resource Collected from: - linkedin - twitter - google	from Different person post.So thanks everyone.❤️
+Resource Collected from: - linkedin - twitter - google and from Different person post.❤️
 	
 	
