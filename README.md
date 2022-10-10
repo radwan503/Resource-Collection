@@ -85,6 +85,8 @@
   - Website: https://99designs.com/blog/tips/branding-colors/
 - Sign-in form best practices  
   - https://web.dev/sign-in-form-best-practices/
+- amazing-javascript-open-source
+  - https://medium.mybridge.co/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9  
 
 ### Quality Assurance Engineer
 - Checklist - is a list of tests
