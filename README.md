@@ -46,7 +46,9 @@
     - https://www.theodinproject.com/
 - FETCH API (JAVASCRIPT)
   - HOW TO MAKE GET AND POST REQUESTS    
-    - https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/    
+    - https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/
+- TheMealDB
+  - https://www.themealdb.com/api.php
     
 ### UI
 
