@@ -120,6 +120,11 @@
 - eCommerce Rest API
   - Free complete store rest api for testing your application and prototypes
     - https://storerestapi.com/
+- Dummy Products API
+  - Provides dummy products to aid you in prototyping or developing e-commerce type of websites.
+    - https://dummyproducts-api.herokuapp.com/
+    
+    
 
 Resource Collected from: - linkedin - twitter - google and from Different person post.❤️
 	
