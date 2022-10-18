@@ -1,8 +1,7 @@
 # Web (Study) Resource Collection
 
 ### JavaScript
-- carbondesignsystem
-  - https://carbondesignsystem.com/
+
 - JSON Crack
   - Seamlessly visualize your JSON data instantly into graphs.  
     - Website: https://jsoncrack.com/
@@ -90,7 +89,9 @@
   - https://web.dev/sign-in-form-best-practices/
 - amazing-javascript-open-source
   - https://medium.mybridge.co/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9  
-
+- Let's build the future of the web, together  
+  - https://web.dev/
+  
 ### Quality Assurance Engineer
 - Checklist - is a list of tests
   - https://strongqa.com/qa-portal/testing-docs-templates/checklist
@@ -109,7 +110,9 @@
 - Primer
   - Design, build, and create with GitHub’s design system
     - https://primer.style/
-
+- carbondesignsystem
+  - https://carbondesignsystem.com/
+  
 ### Free API 
 - Fake Store API ✅
   - Fake store rest API for your e-commerce or shopping website prototype
