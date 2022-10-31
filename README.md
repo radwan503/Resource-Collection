@@ -63,7 +63,10 @@
     - Website: https://uisual.com/
 - Pollen 
   - responsive library of style-agnostic CSS variables for your next design system
-    - Website: https://www.pollen.style/	
+    - Website: https://www.pollen.style/'
+- Front End Practice
+  - https://www.frontendpractice.com/
+    
 	
 
 ### Tools
