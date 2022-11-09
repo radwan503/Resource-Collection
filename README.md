@@ -44,11 +44,10 @@
 - Javscript 
   - Project based Learning  
     - https://www.theodinproject.com/
-- FETCH API (JAVASCRIPT)
-  - HOW TO MAKE GET AND POST REQUESTS    
-    - https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/
-- TheMealDB
-  - https://www.themealdb.com/api.php
+- free-for.dev  
+  - https://free-for.dev/#/?id=forms
+- devresourc  
+  - https://devresourc.es/  
     
 ### UI
 
@@ -132,8 +131,11 @@
 - Dummy Products API
   - Provides dummy products to aid you in prototyping or developing e-commerce type of websites.
     - https://dummyproducts-api.herokuapp.com/
-    
-    
+- FETCH API (JAVASCRIPT)
+  - HOW TO MAKE GET AND POST REQUESTS    
+    - https://simonplend.com/how-to-use-fetch-to-post-form-data-as-json-to-your-api/
+- TheMealDB
+  - https://www.themealdb.com/api.php
 
 Resource Collected from: - linkedin - twitter - google and from Different person post.❤️
 	
