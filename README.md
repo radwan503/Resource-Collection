@@ -93,6 +93,8 @@
   - https://medium.mybridge.co/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9  
 - Let's build the future of the web, together  
   - https://web.dev/
+- how-to-connect-to-the-fakejson-api-using-pure-javascript
+  - https://fakejson.com/how-to-connect-to-the-fakejson-api-using-pure-javascript
   
 ### Quality Assurance Engineer
 - Checklist - is a list of tests
