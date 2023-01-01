@@ -139,7 +139,7 @@
 - TheMealDB
   - https://www.themealdb.com/api.php
   
-#### Quality Assurance Engineer
+#### ----------next
 - Next.js JWT Authentication
   - https://www.youtube.com/watch?v=Gum76LQcJXY
   
