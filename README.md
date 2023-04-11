@@ -66,6 +66,8 @@
     - Website: https://www.pollen.style/'
 - Front End Practice
   - https://www.frontendpractice.com/
+- Tailwind UI blocks FREE
+  - https://tailblocks.cc/ 
     
 	
 
