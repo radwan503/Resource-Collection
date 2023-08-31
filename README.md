@@ -119,6 +119,8 @@
     - https://primer.style/
 - carbondesignsystem
   - https://carbondesignsystem.com/
+- Css-loaders.com
+  https://css-loaders.com/continuous/
   
 ### Free API 
 - Fake Store API ✅
