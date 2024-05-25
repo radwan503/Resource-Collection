@@ -68,8 +68,13 @@
   - https://www.frontendpractice.com/
 - Tailwind UI blocks FREE
   - https://tailblocks.cc/ 
+
     
-	
+### Animation
+- All type animation found this site
+  - https://www.zefi.ai/tools/magicpattern
+- Free SVG background generator.
+  - https://www.zefi.ai/tools/bgjar
 
 ### Tools
  
